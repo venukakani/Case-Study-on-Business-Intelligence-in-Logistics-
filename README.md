@@ -1,1 +1,1 @@
-# Case-Study-on-Business-Intelligence-in-Logistics-
+# Case Study on Business Intelligence in Logistics
